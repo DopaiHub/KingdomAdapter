@@ -2,7 +2,7 @@
 *@author Steven Maxwell
 */
 
-public class Sorcerer {
+public class Sorcerer implements Wizard {
 
 	/*
 	* performSpell method prints a spell
