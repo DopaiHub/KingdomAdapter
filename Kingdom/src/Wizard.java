@@ -1,5 +1,7 @@
 /**
-*@author Steven Maxwell
+* Interface Wizard forces methods performSpell and heal
+* @author Steven Maxwell
+*
 */
 public interface Wizard {
 
