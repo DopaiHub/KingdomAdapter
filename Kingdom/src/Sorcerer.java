@@ -1,16 +1,16 @@
-/*
+/**
 *@author Steven Maxwell
 */
 
 public class Sorcerer implements Wizard {
 
-	/*
+	/**
 	* performSpell method prints a spell
 	*/
 	public void performSpell() {
 		System.out.println("Casting Spell: I put a spell on you, and now you're gone");
 }
-	/*
+	/**
 	* heal method prints a heal
 	*/
 	public void heal() {

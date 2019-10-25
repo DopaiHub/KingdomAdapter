@@ -1,4 +1,4 @@
-/*
+/**
 *@author Steven Maxwell
 */
 public interface Wizard {
